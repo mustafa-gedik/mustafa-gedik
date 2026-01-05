@@ -52,13 +52,3 @@ Merhabalar, yazılım alanına ilgim 15 yaşında başladı ve yıllardır yazı
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>
 </div>
-
-<hr/>
-
-### 🔥 İstatistiklerim:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mustafa-gedik)](https://git.io/streak-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdoq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdoq&show_icons=true&theme=radical)
-
